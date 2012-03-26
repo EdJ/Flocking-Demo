@@ -1,0 +1,11 @@
+"Flocking" is the behaviour of birds or insects when in flight.
+
+It can easily be reproduced with a few simple rules, and this is a quick demo of those rules in action, written in XNA. (See http://en.wikipedia.org/wiki/Flocking_(behavior) for more detail).
+
+Requirements
+ - .NET 4
+ - XNA Framework 4
+
+Known Issues:
+ - The collision detection is currently slightly wonky, due to various changes to get the project in a state worth publishing
+
